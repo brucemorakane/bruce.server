@@ -17,7 +17,16 @@ const Navbar = () => {
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
+          <a class="nav-link" href="#">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Media</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Fishman</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#"></a>
         </li>
         {/* <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
