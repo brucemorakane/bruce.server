@@ -1,5 +1,4 @@
 import React from 'react'
-
 const Slider = () => {
   return (
     <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false">

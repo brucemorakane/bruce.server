@@ -4,7 +4,9 @@
 
 }
 
-.carouselExampleControlsNoTouching{
-    width: 70px;
-    height: 70px;
+.carousel-inner{
+    width: 200px;
+    height: 650px;
 }
+
+
