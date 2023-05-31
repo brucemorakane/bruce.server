@@ -1,12 +1,17 @@
 .body{
     background-color: white;
-    padding-top: 20pc;
+    color: black;
 
 }
 
 .carousel-inner{
     width: 200px;
     height: 650px;
+}
+
+.preview-card{
+    width: 200px;
+    height: 450px;
 }
 
 
