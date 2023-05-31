@@ -2,21 +2,27 @@ import React from 'react'
 
 const Slider = () => {
   return (
-    <div>
-        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://www.fishmantackle.co.za/wp-content/uploads/FISHMAN-Fluorocarbon-300x300.png"></img> 
+    <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="https://media.istockphoto.com/id/1127116386/photo/fisherman-action-when-fishing-net-on-lake-in-the-sunshine.jpg?s=612x612&w=0&k=20&c=Uyp4o5OXkBHmTdiEWZLIcZ8Gdup5Lupt47DihryF2fc=" class="d-block w-100" alt="..."/>
+      </div>
+      <div class="carousel-item">
+        <img src="https://media.istockphoto.com/id/615402422/photo/silhouette-of-traditional-fishermen-throwing-net-fishing-inle-lake.jpg?s=612x612&w=0&k=20&c=ky0GfUmoVCtQ1fZLYOc7QiOJhqUurvPQuvctkEcbsvE=" class="d-block w-100" alt="..."/>
+      </div>
+      <div class="carousel-item">
+        <img src="https://www.shutterstock.com/image-photo/fishman-by-lake-out-town-260nw-1920876230.jpg" class="d-block w-100" alt="..."/>
+      </div>
     </div>
-    <div class="carousel-item">
-      <img  src="https://www.fishmantackle.co.za/wp-content/uploads/FISHMAN-TROLLING-LURES-PINK-WEB-300x300.png"></img>
-    </div>
-    <div class="carousel-item">
-      <img src="https://www.fishmantackle.co.za/wp-content/uploads/Trident-Kobu-Circle-Hook-H1720-2-300x300.png"></img>
-    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
   </div>
-</div>
-    </div>
   )
 }
 
