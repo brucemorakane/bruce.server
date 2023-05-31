@@ -17,17 +17,6 @@ const Cards = () => {
       </div>
     </div>
 
-    <div class="preview-card">
-      <div class="preview-card__wrp">
-        <div class="preview-card__item swiper-slide">
-          <div class="preview-card__img">
-            <img src="https://images.unsplash.com/photo-1661802639028-14ae20900372?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGZpc2htYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" alt=""/>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
   </div>
 </div>
     </div>
