@@ -4,7 +4,7 @@ const Slider = () => {
     <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="https://media.istockphoto.com/id/1127116386/photo/fisherman-action-when-fishing-net-on-lake-in-the-sunshine.jpg?s=612x612&w=0&k=20&c=Uyp4o5OXkBHmTdiEWZLIcZ8Gdup5Lupt47DihryF2fc=" class="d-block w-100" alt="..."/>
+        <img src="" class="d-block w-100" alt="..."/>
       </div>
       <div class="carousel-item">
         <img src="https://media.istockphoto.com/id/615402422/photo/silhouette-of-traditional-fishermen-throwing-net-fishing-inle-lake.jpg?s=612x612&w=0&k=20&c=ky0GfUmoVCtQ1fZLYOc7QiOJhqUurvPQuvctkEcbsvE=" class="d-block w-100" alt="..."/>
