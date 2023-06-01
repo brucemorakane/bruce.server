@@ -6,7 +6,7 @@ const Navbar = () => {
         <nav class="navbar navbar-expand-lg bg-light">
   <div class="container-fluid">
     <div className='logo'>
-      <img src="https://images.unsplash.com/photo-1592928337428-2f4ea5d55f6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGxvZ28lMjBmaXNofGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" width={40}></img>
+      <img src="https://www.thefishguy.co.za/wp-content/uploads/2022/10/Fish-Guy-Logo.png" width={60}></img>
     </div>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>

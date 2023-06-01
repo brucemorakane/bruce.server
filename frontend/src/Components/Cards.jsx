@@ -4,7 +4,7 @@ const Cards = () => {
     return (
         <div>
             <div class="container">
-                <div class="row g-6">
+                <div class="row g-4">
 ~
                     <div class="preview-card"><br />
                         <div class="preview-card__wrp">
@@ -17,8 +17,42 @@ const Cards = () => {
 
                         </div>
                     </div>
-
-~
+<br />
+~<div class="container text-center">
+  <div class="row align-items-start">
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+  </div>
+  <div class="row align-items-center">
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+  </div>
+  <div class="row align-items-end">
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+  </div>
+</div>
 
                 </div>
             </div>
