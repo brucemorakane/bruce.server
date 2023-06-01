@@ -11,7 +11,7 @@ const Footer = () => {
 <div className="col-xs-12 col-sm-6 col-md-3">
 <div className="widget subscribe no-box">
 <h5 className="widget-title">BYJONFISH (PTY) LTD<span></span></h5>
-<p>The Fishman i was trading under the Holding Company Taste hold from 2020.</p>
+<p>The Business-Fishman i was trading under the Holding Company Taste h from 2020</p>
 </div>
 </div>
 
@@ -75,7 +75,7 @@ const Footer = () => {
 <div className="container">
 <div className="row">
 <div className="col-md-12 text-center">
-<p>Copyright Company Name © 2022. All rights reserved.</p>
+<h1>Copyright Company Name © 2023. All rights reserved.</h1>
 </div>
 </div>
 </div>
