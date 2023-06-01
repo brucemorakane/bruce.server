@@ -8,37 +8,77 @@ const Cards = () => {
     <div class="card" style="width: 18rem;">
   <img src="https://images.unsplash.com/photo-1518732751612-2c0787ff5684?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fGZpc2glMjBmb29kc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="..."width={350}/>
   <div class="card-body">
-  <a href="#" class="btn btn-primary">Go somewhere</a>
+  <a href="#" class="btn btn-primary">Views More</a>
   </div>
 </div>
     </div>
     <div class="col">
-      One of three columns
+    <div class="card" style="width: 18rem;">
+  <img src="https://images.unsplash.com/photo-1598714186740-e20efdfbfc99?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTd8fGZpc2glMjBmb29kc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"class="card-img-top" alt="..."width={350}/>
+  <div class="card-body">
+  <a href="#" class="btn btn-primary">Views More</a>
+  </div>
+</div>
     </div>
     <div class="col">
-      One of three columns
+    <div class="card" style="width: 18rem;">
+  <img src="https://images.unsplash.com/photo-1635098509970-0cafd2b35b08?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fGZpc2glMjBmb29kc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="..."width={350}/>
+  <div class="card-body">
+  <a href="#" class="btn btn-primary">Views More</a>
+  </div>
+</div>
     </div>
   </div>
   <div class="row align-items-center">
     <div class="col">
-      One of three columns
+    <div class="card" style="width: 18rem;">
+  <img src="https://images.unsplash.com/photo-1508317188626-320df4c2bbce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTh8fGZpc2glMjBmb29kc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="..."width={350}/>
+  <div class="card-body">
+  <a href="#" class="btn btn-primary">Views More</a>
+  </div>
+</div>
     </div>
     <div class="col">
-      One of three columns
+    <div class="card" style="width: 18rem;">
+  <img src="https://images.unsplash.com/photo-1600699899970-b1c9fadd8f9e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTExfHxmaXNoJTIwZm9vZHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="..."width={350}/>
+  <div class="card-body">
+  <a href="#" class="btn btn-primary">Views More</a>
+  </div>
+</div>
     </div>
     <div class="col">
-      One of three columns
+    <div class="card" style="width: 18rem;">
+  <img src="https://images.unsplash.com/photo-1577193459085-2da60ca7fd77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE5fHxmaXNoJTIwZm9vZHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="..."width={350}/>
+  <div class="card-body">
+  <a href="#" class="btn btn-primary">Views More</a>
+  </div>
+</div>
     </div>
   </div>
   <div class="row align-items-end">
     <div class="col">
-      One of three columns
+    <div class="card" style="width: 18rem;">
+  <img src="https://images.unsplash.com/photo-1637699612253-b2d5f7a4ea59?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI2fHxmaXNoJTIwZm9vZHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="..."width={350}/>
+  <div class="card-body">
+  <a href="#" class="btn btn-primary">Views More</a>
+  </div>
+</div>
     </div>
     <div class="col">
-      One of three columns
+    <div class="card" style="width: 18rem;">
+  <img src="https://plus.unsplash.com/premium_photo-1663050756474-a71d513e32c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjA1fHxmaXNoJTIwZm9vZHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="..."width={350}/>
+  <div class="card-body">
+  <a href="#" class="btn btn-primary">Views More</a>
+  </div>
+</div>
     </div>
     <div class="col">
-      One of three columns
+    <div class="card" style="width: 18rem;">
+  <img src="https://images.unsplash.com/photo-1642741580389-87dd75d913f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQzfHxmaXNoJTIwZm9vZHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="..."width={350}/>
+  <div class="card-body">
+  <a href="#" class="btn btn-primary">Views More</a>
+  </div>
+</div>
     </div>
   </div>
 </div>
