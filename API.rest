@@ -1,3 +1,0 @@
-### test if server 
-GET  http://localhost:5500/products
-Content-Type: application/json
