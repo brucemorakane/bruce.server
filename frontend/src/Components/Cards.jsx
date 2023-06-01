@@ -3,14 +3,6 @@ import React from 'react'
 const Cards = () => {
     return (
         <div>
-            <div>
-                <h1 className="my-element">An animated element</h1>
-                [3:20 PM]
-                .my-element {
-                    display: ({inline-block});
-                margin: 0 0.5rem;
-
-            </div>
             <div class="container">
                 <div class="row g-6">
 
