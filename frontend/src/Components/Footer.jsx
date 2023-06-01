@@ -10,8 +10,8 @@ const Footer = () => {
   
 <div className="col-xs-12 col-sm-6 col-md-3">
 <div className="widget subscribe no-box">
-<h5 className="widget-title">COMPANY NAME<span></span></h5>
-<p>About the company, little discription will goes here.. </p>
+<h5 className="widget-title">BYJONFISH (PTY) LTD<span></span></h5>
+<p>The Fishman i was trading under the Holding Company Taste hold from 2020.</p>
 </div>
 </div>
 
