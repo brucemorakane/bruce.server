@@ -13,7 +13,7 @@ const Footer = () => {
           <div class="col-lg-3 col-xs-12 links">
             <h4 class="mt-lg-0 mt-sm-3">Links</h4>
             <div className='social_media'>
-              <li><a href="https://www.flaticon.com/free-icons/facebook">Facebook</a> 
+              <li><a href="https://www.flaticon.com/free-icons/facebook">Facebook</a>
               </li>
               <li>- <a href="#"></a></li>
               <li>- <a href="#"></a></li>
