@@ -13,24 +13,24 @@ const Footer = () => {
     <div class="col-lg-3 col-xs-12 links">
       <h4 class="mt-lg-0 mt-sm-3">Links</h4>
         <ul class="m-0 p-0">
-          <li>- <a href="#">Lorem ipsum</a></li>
-          <li>- <a href="#">Nam mauris velit</a></li>
-          <li>- <a href="#">Etiam vitae mauris</a></li>
-          <li>- <a href="#">Fusce scelerisque</a></li>
-          <li>- <a href="#">Sed faucibus</a></li>
-          <li>- <a href="#">Mauris efficitur nulla</a></li>
+          <li>- <a href="#"></a></li>
+          <li>- <a href="#"></a></li>
+          <li>- <a href="#"></a></li>
+          <li>- <a href="#"></a></li>
+          <li>- <a href="#"></a></li>
+          <li>- <a href="#"></a></li>
         </ul>
     </div>
     <div class="col-lg-4 col-xs-12 location">
       <h4 class="mt-lg-0 mt-sm-4">Location</h4>
-      <p>22, Lorem ipsum dolor, consectetur adipiscing</p>
-      <p class="mb-0"><i class="fa fa-phone mr-3"></i>(541) 754-3010</p>
-      <p><i class="fa fa-envelope-o mr-3"></i>info@hsdf.com</p>
+      <p>Protea Glen Ext 27 burweed street</p>
+      <p class="mb-0"><i class="fa fa-phone mr-3"></i>(011) 754-3010</p>
+      <p><i class="fa fa-envelope-o mr-3"></i>Bruce Mulungana12@gmail.com</p>
     </div>
   </div>
   <div class="row mt-5">
     <div class="col copyright">
-      <p class=""><small class="text-white-50">© 2019. All Rights Reserved.</small></p>
+      <p class=""><small class="text-dark-50">© 2023. All Rights Reserved.</small></p>
     </div>
   </div>
 </div>
