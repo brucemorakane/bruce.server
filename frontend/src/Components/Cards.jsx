@@ -58,9 +58,6 @@ const Cards = () => {
                         </div>
                     </div>
                 </div>
-                
-                <div class="row align-items-center mt-5">
-                </div>
             </div>
 
 
