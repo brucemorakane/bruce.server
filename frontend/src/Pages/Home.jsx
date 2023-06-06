@@ -6,6 +6,8 @@ import Cards from '../Components/Cards';
 import Footer from '../Components/Footer';
 
 
+
+
 const Home = () => {
   return (
     <div>
@@ -13,6 +15,8 @@ const Home = () => {
         <Slider/>
         <Cards/>
         <Footer/>
+       
+       
     </div>
   )
 }
