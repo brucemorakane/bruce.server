@@ -1,5 +1,4 @@
 import React from 'react'
-
 const Footer = () => {
   return (
     <div class="mt-5 pt-5 pb-5 footer">
@@ -15,11 +14,11 @@ const Footer = () => {
             <div className='social_media'>
               <li><a href="https://www.facebook.com/TwoOceansAquarium/">Facebook</a>
               </li>
-              <li>- <a href="https://twitter.com/2OceansAquarium">Twitter</a></li>
-              <li>- <a href="https://www.instagram.com/2oceansaquarium/">Instagram</a></li>
-              <li>- <a href="#"></a></li>
-              <li>- <a href="#"></a></li>
-              <li>- <a href="#"></a></li>
+              <li><a href="https://twitter.com/2OceansAquarium">Twitter</a></li>
+              <li><a href="https://www.instagram.com/2oceansaquarium/">Instagram</a></li>
+              <li><a href="#"></a></li>
+              <li><a href="#"></a></li>
+              <li><a href="#"></a></li>
             </div>
           </div>
           <div class="col-lg-4 col-xs-12 location">
