@@ -3,7 +3,7 @@ import Navbar from '../Components/Navbar'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Slider from '../Components/Slider';
 import Cards from '../Components/Cards';
-import Footer from '../Components/Footer';
+
 
 
 
@@ -14,7 +14,7 @@ const Home = () => {
         <Navbar/>
         <Slider/>
         <Cards/>
-        <Footer/>
+        
        
        
     </div>
