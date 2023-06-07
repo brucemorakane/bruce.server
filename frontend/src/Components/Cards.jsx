@@ -82,7 +82,7 @@ const Cards = () => {
                         <div class="preview-card__wrp">
                             <div class="preview-card__item">
                                 <div class="preview-card__img">
-                                    <img src="https://images.unsplash.com/photo-1597692493640-b70139c9e4ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGZpc2glMjBmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" alt="" width={300} />
+                                    <img src="https://images.unsplash.com/photo-1512132411229-c30391241dd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fGZpc2glMjBmb29kc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="" width={300} />
                                 </div><br />
                                 <a href="#" class="btn btn-dark">VIEWS MORE</a>
                             </div>
